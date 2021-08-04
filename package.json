@@ -70,6 +70,8 @@
     }
   },
   "dependencies": {
+    "@googleapis/oauth2": "^0.2.0",
+    "@googleapis/sheets": "^0.3.0",
     "axios": "^0.21.0",
     "base64url": "^3.0.1",
     "commander": "^7.1.0",
